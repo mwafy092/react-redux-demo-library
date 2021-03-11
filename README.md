@@ -2,11 +2,13 @@
 
 1. I implemented TODO App using React and Redux as a library for any future project.
 
-2. Also this project includes the pure code of Provider and connect APIs from Redux.
+2. This project uses Async Redux by using Thunk
 
-3. This project uses Rails-style to implement the redux folder structure.
+3. Also this project includes the pure code of Store, Provider and connect APIs from Redux.
 
-4. actions / reducers / middleware are included.
+4. This project uses Rails-style to implement the redux folder structure.
+
+5. actions / reducers / middleware are included.
 
 ## Resources for Redux
 
@@ -17,6 +19,8 @@
 3. Redux Architecture https://medium.com/@abhinav_jain123/react-redux-architecture-part-1-separation-of-concerns-812da3b08b46
 
 4. Redux Docs Tutorials https://redux.js.org/tutorials/index
+
+5. Redux Thunk https://blog.nojaf.com/2015/12/06/redux-thunk/
 
 ## Usage and installation
 
